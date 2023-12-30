@@ -2,7 +2,6 @@
 
 Bienvenue dans notre projet ! Pour faciliter l'accès à la vidéo en raison de sa longueur, nous l'avons téléchargée sur Mega. Il vous suffit de cliquer sur ce lien pour télécharger le fichier ZIP contenant la vidéo.
 
-## Instructions pour la création d'un compte administrateur
 
 1. Accédez à la vidéo en suivant le lien Mega mentionné ci-dessus.
 2. Une fois le fichier ZIP téléchargé, extrayez son contenu dans le répertoire de votre choix.
